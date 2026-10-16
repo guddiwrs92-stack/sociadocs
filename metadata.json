@@ -1,0 +1,6 @@
+{
+  "name": "SocialDocs Client Portal",
+  "description": "Modern client portal and marketing dashboard for SocialDocs agency clients, featuring service tracking, Instagram accounts, invoice management with PDF downloads, and direct support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
